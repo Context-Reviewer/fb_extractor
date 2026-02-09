@@ -1,0 +1,12 @@
+# outputs / evidence
+fb_extract_out/
+fb_profile/
+
+# python
+__pycache__/
+*.pyc
+
+# misc
+*.log
+.DS_Store
+Thumbs.db
