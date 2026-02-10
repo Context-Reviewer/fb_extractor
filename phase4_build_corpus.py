@@ -274,6 +274,7 @@ def main():
                     al = n.get("aria-label", "")
                     if al.startswith(PREFIXES):
                         comment_nodes.append(n)
+                # Deterministic ordering: aria-label + text length
 
                 if not comment_nodes:
                     stats["blocks_skipped_no_comments"] += 1
