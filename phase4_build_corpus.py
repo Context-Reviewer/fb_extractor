@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
-# pyright: reportUnknownMemberType=false
-# pyright: reportUnknownVariableType=false
+# pyright: strict=false
 # pyright: reportGeneralTypeIssues=false
 
 import argparse
