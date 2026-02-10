@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# pyright: reportUnknownMemberType=false
+# pyright: reportUnknownVariableType=false
+# pyright: reportGeneralTypeIssues=false
 
 import argparse
 import json
