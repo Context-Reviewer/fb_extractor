@@ -1,4 +1,3 @@
-# pyright: strict=false
 #!/usr/bin/env python3
 # pyright: reportUnknownMemberType=false
 # pyright: reportUnknownVariableType=false
