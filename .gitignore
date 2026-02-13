@@ -14,3 +14,12 @@ Thumbs.db
 *.bak
 *.bak2
 
+
+# local venv
+.venv/
+__pycache__/
+*.pyc
+fb_extract_out/
+
+# scratch
+scratch/
