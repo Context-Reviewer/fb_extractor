@@ -1,25 +1,21 @@
-# outputs / evidence
-fb_extract_out/
-fb_profile/
-
-# python
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# misc
-*.log
-.DS_Store
-Thumbs.db
-
-*.bak
-*.bak2
-
-
-# local venv
+# Virtual environments
 .venv/
-__pycache__/
-*.pyc
-fb_extract_out/
+venv/
 
-# scratch
+# Playwright
+playwright-report/
+test-results/
+
+# Output artifacts
+fb_extract_out/
+*.log
+
+# Scratch / temp
 scratch/
+*.tmp
