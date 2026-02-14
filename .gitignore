@@ -19,3 +19,8 @@ fb_extract_out/
 # Scratch / temp
 scratch/
 *.tmp
+
+# local profiles / backups
+fb_profile/
+*.bak
+*.bak*
